@@ -74,9 +74,7 @@ MorphoTV 是一个纯前端应用，数据来源于第三方采集站。由于�
 | [Vercel Edge Functions](deploy-proxy/README.md#3-vercel-edge-functions) | 云端 | ⭐⭐⭐ | ⭐⭐⭐⭐ | 免费 | ⭐⭐⭐⭐ |
 | [Deno 本地运行](deploy-proxy/README.md#4-deno-本地运行) | 本地 | ⭐ | ⭐⭐⭐ | 免费 | ⭐⭐⭐ |
 
-> 📁 **部署指南**:
-> - **本地部署**: 查看 [`server/`](server/) 文件夹获取 Express 服务器部署指南
-> - **云端部署**: 查看 [`deploy-proxy/`](deploy-proxy/) 文件夹获取云端部署方案
+
 
 ### 🎯 推荐方案选择
 
